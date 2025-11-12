@@ -41,6 +41,7 @@ This project can be used as a mini-project or learning example for Java beginner
    (Extension Pack for Java, Debugger for Java, Language Support for Java)
 4. Create a folder named `BankAccountManager` and add all `.java` files:
 
+OUTPUT:
 ===== BANK ACCOUNT MANAGER =====
 1. Create Account
 2. Deposit Money
