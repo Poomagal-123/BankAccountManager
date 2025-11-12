@@ -1,4 +1,4 @@
-*Bank Account Manager (Core Java Project)
+1.Bank Account Manager (Core Java Project)
 
 This is a simple **Bank Account Management System** developed using **Core Java**.  
 It helps to perform basic banking operations such as creating a new account, depositing money, withdrawing money, checking balance, and viewing customer details.  
@@ -7,7 +7,7 @@ The project uses **HashMap** to store and manage multiple bank accounts efficien
 The system runs in the **console (command line)** and allows the user to interact with different banking options using a simple text-based menu.  
 It is designed to demonstrate **Object-Oriented Programming (OOP)** principles such as classes, objects, encapsulation, and modularity.
 
-*Objective
+2.Objective
 
 The main aim of this project is to understand how real-world banking operations can be implemented in Java using:
 - Object-oriented concepts
@@ -17,7 +17,7 @@ The main aim of this project is to understand how real-world banking operations 
 
 This project can be used as a mini-project or learning example for Java beginners.
 
-*Features
+3.Features
 
 1. **Create New Account** – Allows the user to create a new customer account with personal and account details.  
 2. **Deposit Money** – Add funds to an existing account.  
@@ -26,14 +26,14 @@ This project can be used as a mini-project or learning example for Java beginner
 5. **List All Accounts** – Display all stored customer accounts.  
 6. **Exit Program** – End the application safely.
 
-*Technologies Used
+4.Technologies Used
 
 - **Programming Language:** Java (Core Java)
 - **IDE:** Visual Studio Code (VS Code)
 - **Data Structure:** HashMap (for storing multiple accounts)
 - **Concepts Used:** Classes, Objects, Methods, Encapsulation, and Scanner class
 
-* How to Run in VS Code
+5.How to Run in VS Code
 
 1. **Install Java JDK** (version 17 or above)
 2. **Install VS Code**
